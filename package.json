@@ -1,6 +1,6 @@
 {
   "name": "kebab-converter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Util for converting projects to kebab casing",
   "bin": {
     "kebab-converter": "./index.js"
