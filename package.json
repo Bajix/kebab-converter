@@ -1,0 +1,33 @@
+{
+  "name": "kebab-converter",
+  "version": "0.0.0",
+  "description": "Util for converting projects to kebab casing",
+  "bin": {
+    "kebab-converter": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bajix/kebab-converter.git"
+  },
+  "keywords": [
+    "lisp-case",
+    "train-case",
+    "dash-case",
+    "dashify",
+    "dasherize",
+    "dash",
+    "kebab",
+    "kebab-case"
+  ],
+  "author": "Thomas Sieverding (Thomas@bajix.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bajix/kebab-converter/issues"
+  },
+  "homepage": "https://github.com/Bajix/kebab-converter#readme",
+  "dependencies": {}
+}
